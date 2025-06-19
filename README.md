@@ -1,12 +1,40 @@
-# React + Vite
+# EzEvent 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**EzEvent** is an all-in-one event management platform that simplifies how you create, organize, and manage events. Whether you're planning a small meetup or a large-scale conference, EzEvent has you covered — from task delegation to ticket sales.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Create and Manage Events**  
+  Set up events with custom details like location, date, and description.
 
-## Expanding the ESLint configuration
+- **Task Management for Users and Teams**  
+  Assign and track tasks for individuals or teams to ensure seamless event preparation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Sell Event Tickets**  
+  Create, sell, and manage tickets. Monitor sales and check-in attendees easily.
+
+- **User Roles and Access Control**  
+  Organizers, team members, and attendees each have the right tools for their role.
+
+- **Dashboard Overview**  
+  A centralized dashboard gives you a snapshot of event progress and activity.
+
+## 🔧 Tech Stack
+
+> Customize based on your tech choices.
+
+- **Frontend:** React.js / Vite / Tailwind  
+- **Backend:** Node.js / Express
+- **Database:** MySql
+- **Authentication:** Clerk User Management
+- **Payments:** Midtrans 
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 📬 Contact
+
+Have questions or suggestions?
+
+- Email: [ypmilala20@gmail.com](mailto:ypmilala20@gmail.com)
