@@ -1,0 +1,9 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="15" y="20" width="70" height="65" rx="12" fill="#3B82F6" stroke="#1E293B" stroke-width="4"/>
+  <rect x="15" y="20" width="70" height="15" rx="4" fill="#1E293B"/>
+  <circle cx="30" cy="27.5" r="3" fill="#FBBF24"/>
+  <circle cx="50" cy="27.5" r="3" fill="#FBBF24"/>
+  <circle cx="70" cy="27.5" r="3" fill="#FBBF24"/>
+  <text x="28" y="70" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="bold" fill="#fff">E</text>
+  <polyline points="44,80 52,88 67,73" fill="none" stroke="#FBBF24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

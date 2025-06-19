@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.cl-user-profile {
+  background-color: #1f2937 !important; /* Set a dark background */
+  color: #ffffff !important; /* Set text color to white */
+  border-radius: 8px; /* Optional: Add rounded corners */
+  padding: 16px; /* Optional: Add padding */
+}
